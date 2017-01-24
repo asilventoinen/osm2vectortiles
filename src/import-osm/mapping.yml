@@ -126,6 +126,9 @@ tables:
     - name: name_zh
       key: name:zh
       type: string
+    - name: name_sv
+      key: name:sv
+      type: string
     - name: iata
       key: iata
       type: string
@@ -179,6 +182,9 @@ tables:
       type: string
     - name: name_zh
       key: name:zh
+      type: string
+    - name: name_sv
+      key: name:sv
       type: string
     - name: iata
       key: iata
@@ -448,6 +454,9 @@ tables:
     - name: name_zh
       key: name:zh
       type: string
+    - name: name_sv
+      key: name:sv
+      type: string
     - name: type
       type: mapping_value
     - key: population
@@ -709,6 +718,9 @@ tables:
     - name: name_zh
       key: name:zh
       type: string
+    - name: name_sv
+      key: name:sv
+      type: string
     - name: type
       type: mapping_value
     mapping:
@@ -749,6 +761,9 @@ tables:
       type: string
     - name: name_zh
       key: name:zh
+      type: string
+    - name: name_sv
+      key: name:sv
       type: string
     - name: area
       type: pseudoarea
@@ -798,6 +813,9 @@ tables:
     - name: name_zh
       key: name:zh
       type: string
+    - name: name_sv
+      key: name:sv
+      type: string
     - name: type
       type: mapping_value
     mapping:
@@ -842,6 +860,9 @@ tables:
     - name: name_zh
       key: name:zh
       type: string
+    - name: name_sv
+      key: name:sv
+      type: string
     - name: type
       type: mapping_value
     mapping:
@@ -877,6 +898,9 @@ tables:
       type: string
     - name: name_zh
       key: name:zh
+      type: string
+    - name: name_sv
+      key: name:sv
       type: string
     - key: ref
       name: ref
@@ -1183,6 +1207,9 @@ tables:
       type: string
     - name: name_zh
       key: name:zh
+      type: string
+    - name: name_sv
+      key: name:sv
       type: string
     - key: ref
       name: ref
